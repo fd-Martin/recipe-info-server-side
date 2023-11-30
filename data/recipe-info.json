@@ -1,0 +1,498 @@
+[
+  {
+    "id": 1,
+    "photo": "chef1.jpg",
+    "name": "Chef John Smith",
+    "bio": "Passionate about Thai cuisine and its rich flavors.",
+    "experience": 15,
+    "num_recipes": 5,
+    "likes": 5000,
+    "recipes": [
+      {
+        "name": "Pad Thai",
+        "ingredients": [
+          "rice noodles",
+          "shrimp",
+          "tofu",
+          "bean sprouts",
+          "peanuts"
+        ],
+        "cooking_method": "Stir-fry and toss with tamarind sauce",
+        "rating": 4.8
+      },
+      {
+        "name": "Tom Yum Soup",
+        "ingredients": [
+          "lemongrass",
+          "galangal",
+          "shrimp",
+          "mushrooms",
+          "chilies"
+        ],
+        "cooking_method": "Simmer ingredients in a broth",
+        "rating": 4.5
+      },
+      {
+        "name": "Green Curry Chicken",
+        "ingredients": [
+          "chicken",
+          "coconut milk",
+          "green curry paste",
+          "bamboo shoots",
+          "Thai basil"
+        ],
+        "cooking_method": "Cook chicken in green curry sauce",
+        "rating": 4.9
+      },
+      {
+        "name": "Thai Basil Beef",
+        "ingredients": [
+          "beef",
+          "Thai basil",
+          "soy sauce",
+          "garlic",
+          "bell peppers"
+        ],
+        "cooking_method": "Stir-fry beef with Thai basil and spices",
+        "rating": 4.7
+      },
+      {
+        "name": "Mango Sticky Rice",
+        "ingredients": [
+          "sticky rice",
+          "mango",
+          "coconut milk",
+          "sugar",
+          "sesame seeds"
+        ],
+        "cooking_method": "Cook sticky rice and serve with sliced mango",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "photo": "chef2.jpg",
+    "name": "Chef Maria Rodriguez",
+    "bio": "Bringing the authentic taste of Thailand to your table.",
+    "experience": 12,
+    "num_recipes": 3,
+    "likes": 4800,
+    "recipes": [
+      {
+        "name": "Panang Curry Beef",
+        "ingredients": [
+          "beef",
+          "coconut milk",
+          "Panang curry paste",
+          "kaffir lime leaves",
+          "bell peppers"
+        ],
+        "cooking_method": "Simmer beef in Panang curry sauce",
+        "rating": 4.7
+      },
+      {
+        "name": "Som Tum Salad",
+        "ingredients": [
+          "green papaya",
+          "carrots",
+          "cherry tomatoes",
+          "peanuts",
+          "fish sauce"
+        ],
+        "cooking_method": "Shred papaya and mix with other ingredients",
+        "rating": 4.6
+      },
+      {
+        "name": "Mango Sticky Rice",
+        "ingredients": [
+          "sticky rice",
+          "mango",
+          "coconut milk",
+          "sugar",
+          "sesame seeds"
+        ],
+        "cooking_method": "Cook sticky rice and serve with sliced mango",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "photo": "chef3.jpg",
+    "name": "Chef Li Wei",
+    "bio": "Blending Thai tradition with modern culinary techniques.",
+    "experience": 20,
+    "num_recipes": 6,
+    "likes": 7500,
+    "recipes": [
+      {
+        "name": "Tom Kha Gai",
+        "ingredients": [
+          "chicken",
+          "coconut milk",
+          "lemongrass",
+          "galangal",
+          "kaffir lime leaves"
+        ],
+        "cooking_method": "Simmer chicken in coconut milk with herbs",
+        "rating": 4.9
+      },
+      {
+        "name": "Pineapple Fried Rice",
+        "ingredients": [
+          "jasmine rice",
+          "pineapple",
+          "shrimp",
+          "cashews",
+          "raisins"
+        ],
+        "cooking_method": "Stir-fry rice with pineapple, shrimp, and nuts",
+        "rating": 4.7
+      },
+      {
+        "name": "Massaman Curry Lamb",
+        "ingredients": [
+          "lamb",
+          "potatoes",
+          "peanuts",
+          "Massaman curry paste",
+          "cinnamon"
+        ],
+        "cooking_method": "Slow-cook lamb with curry paste and spices",
+        "rating": 4.8
+      },
+      {
+        "name": "Thai Iced Tea",
+        "ingredients": [
+          "black tea",
+          "condensed milk",
+          "ice",
+          "sugar",
+          "vanilla"
+        ],
+        "cooking_method": "Brew tea and mix with condensed milk over ice",
+        "rating": 4.5
+      },
+      {
+        "name": "Coconut Shrimp Soup",
+        "ingredients": [
+          "shrimp",
+          "coconut milk",
+          "lemongrass",
+          "mushrooms",
+          "lime"
+        ],
+        "cooking_method": "Simmer shrimp in coconut milk broth",
+        "rating": 4.6
+      },
+      {
+        "name": "Green Papaya Salad",
+        "ingredients": [
+          "green papaya",
+          "carrots",
+          "tomatoes",
+          "peanuts",
+          "lime"
+        ],
+        "cooking_method": "Shred papaya and mix with other ingredients",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "photo": "chef4.jpg",
+    "name": "Chef Alessandra Rossi",
+    "bio": "Passionate about creating Thai dishes with a twist.",
+    "experience": 18,
+    "num_recipes": 4,
+    "likes": 6000,
+    "recipes": [
+      {
+        "name": "Thai Basil Pesto Pasta",
+        "ingredients": [
+          "pasta",
+          "Thai basil",
+          "garlic",
+          "pine nuts",
+          "parmesan"
+        ],
+        "cooking_method": "Cook pasta and toss with Thai basil pesto",
+        "rating": 4.5
+      },
+      {
+        "name": "Red Curry Shrimp Skewers",
+        "ingredients": [
+          "shrimp",
+          "red curry paste",
+          "coconut milk",
+          "bell peppers",
+          "onions"
+        ],
+        "cooking_method": "Skewer shrimp and vegetables, grill with red curry glaze",
+        "rating": 4.8
+      },
+      {
+        "name": "Mango Coconut Sorbet",
+        "ingredients": [
+          "mango",
+          "coconut milk",
+          "sugar",
+          "lime juice",
+          "mint"
+        ],
+        "cooking_method": "Blend ingredients and freeze into sorbet",
+        "rating": 4.7
+      },
+      {
+        "name": "Thai Chicken Lettuce Wraps",
+        "ingredients": [
+          "ground chicken",
+          "water chestnuts",
+          "hoisin sauce",
+          "soy sauce",
+          "lettuce"
+        ],
+        "cooking_method": "Cook chicken mixture and serve in lettuce cups",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "photo": "chef5.jpg",
+    "name": "Chef Ananya Gupta",
+    "bio": "Infusing Thai flavors with a touch of Indian influence.",
+    "experience": 14,
+    "num_recipes": 6,
+    "likes": 5500,
+    "recipes": [
+      {
+        "name": "Thai Chicken Biryani",
+        "ingredients": [
+          "chicken",
+          "basmati rice",
+          "coconut milk",
+          "Thai spices",
+          "mint"
+        ],
+        "cooking_method": "Layer chicken and rice with Thai spices, cook until tender",
+        "rating": 4.8
+      },
+      {
+        "name": "Coconut Curry Vegetable Stir-Fry",
+        "ingredients": [
+          "mixed vegetables",
+          "coconut curry sauce",
+          "tofu",
+          "cashews",
+          "soy sauce"
+        ],
+        "cooking_method": "Stir-fry vegetables and tofu in coconut curry sauce",
+        "rating": 4.7
+      },
+      {
+        "name": "Thai Basil Naan Pizza",
+        "ingredients": [
+          "naan bread",
+          "Thai basil pesto",
+          "chicken",
+          "bell peppers",
+          "mozzarella"
+        ],
+        "cooking_method": "Spread naan with Thai basil pesto, top with ingredients, and bake",
+        "rating": 4.6
+      },
+      {
+        "name": "Papaya-Coconut Smoothie",
+        "ingredients": [
+          "papaya",
+          "coconut milk",
+          "yogurt",
+          "honey",
+          "ice"
+        ],
+        "cooking_method": "Blend ingredients into a refreshing smoothie",
+        "rating": 4.9
+      },
+      {
+        "name": "Thai Green Bean Salad",
+        "ingredients": [
+          "green beans",
+          "cherry tomatoes",
+          "red onion",
+          "peanuts",
+          "lime dressing"
+        ],
+        "cooking_method": "Blanch green beans and toss with other ingredients",
+        "rating": 4.5
+      },
+      {
+        "name": "Mango Chili Chicken Wings",
+        "ingredients": [
+          "chicken wings",
+          "mango-chili glaze",
+          "sesame seeds",
+          "cilantro",
+          "lime"
+        ],
+        "cooking_method": "Bake or grill chicken wings with mango-chili glaze",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "photo": "chef6.jpg",
+    "name": "Chef Takashi Yamamoto",
+    "bio": "Bringing a touch of Japanese precision to Thai cuisine.",
+    "experience": 16,
+    "num_recipes": 4,
+    "likes": 5200,
+    "recipes": [
+      {
+        "name": "Sushi-Inspired Thai Rolls",
+        "ingredients": [
+          "rice paper",
+          "shrimp",
+          "vermicelli noodles",
+          "mint",
+          "Thai dipping sauce"
+        ],
+        "cooking_method": "Roll ingredients in rice paper and serve with Thai dipping sauce",
+        "rating": 4.8
+      },
+      {
+        "name": "Thai Green Tea Matcha Latte",
+        "ingredients": [
+          "Thai green tea",
+          "matcha powder",
+          "milk",
+          "sweetener",
+          "ice"
+        ],
+        "cooking_method": "Brew Thai green tea, add matcha and milk, serve over ice",
+        "rating": 4.6
+      },
+      {
+        "name": "Spicy Tuna Larb Lettuce Cups",
+        "ingredients": [
+          "tuna",
+          "lime juice",
+          "chilies",
+          "mint",
+          "lettuce cups"
+        ],
+        "cooking_method": "Mix tuna with lime juice, chilies, and mint, serve in lettuce cups",
+        "rating": 4.7
+      },
+      {
+        "name": "Coconut Miso Ramen",
+        "ingredients": [
+          "ramen noodles",
+          "coconut milk",
+          "miso paste",
+          "tofu",
+          "shiitake mushrooms"
+        ],
+        "cooking_method": "Cook ramen in coconut miso broth with tofu and mushrooms",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "photo": "chef7.jpg",
+    "name": "Chef Isabella Rossi",
+    "bio": "A culinary artist blending Thai and Italian flavors.",
+    "experience": 14,
+    "num_recipes": 3,
+    "likes": 4900,
+    "recipes": [
+      {
+        "name": "Thai Basil Pesto Risotto",
+        "ingredients": [
+          "arborio rice",
+          "Thai basil",
+          "garlic",
+          "pine nuts",
+          "parmesan"
+        ],
+        "cooking_method": "Sauté rice, add broth gradually, stir in pesto, and finish with parmesan",
+        "rating": 4.8
+      },
+      {
+        "name": "Spaghetti Pad Kee Mao",
+        "ingredients": [
+          "spaghetti",
+          "beef",
+          "Thai holy basil",
+          "chilies",
+          "soy sauce"
+        ],
+        "cooking_method": "Stir-fry spaghetti with beef, Thai basil, and chilies",
+        "rating": 4.7
+      },
+      {
+        "name": "Lemon Basil Tiramisu",
+        "ingredients": [
+          "ladyfingers",
+          "lemon basil syrup",
+          "mascarpone",
+          "espresso",
+          "cocoa powder"
+        ],
+        "cooking_method": "Layer ladyfingers with lemon basil syrup and mascarpone, finish with cocoa",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "photo": "chef7.jpg",
+    "name": "Chef Isabella Rossi",
+    "bio": "A culinary artist blending Thai and Italian flavors.",
+    "experience": 14,
+    "num_recipes": 3,
+    "likes": 4900,
+    "recipes": [
+      {
+        "name": "Thai Basil Pesto Risotto",
+        "ingredients": [
+          "arborio rice",
+          "Thai basil",
+          "garlic",
+          "pine nuts",
+          "parmesan"
+        ],
+        "cooking_method": "Sauté rice, add broth gradually, stir in pesto, and finish with parmesan",
+        "rating": 4.8
+      },
+      {
+        "name": "Spaghetti Pad Kee Mao",
+        "ingredients": [
+          "spaghetti",
+          "beef",
+          "Thai holy basil",
+          "chilies",
+          "soy sauce"
+        ],
+        "cooking_method": "Stir-fry spaghetti with beef, Thai basil, and chilies",
+        "rating": 4.7
+      },
+      {
+        "name": "Lemon Basil Tiramisu",
+        "ingredients": [
+          "ladyfingers",
+          "lemon basil syrup",
+          "mascarpone",
+          "espresso",
+          "cocoa powder"
+        ],
+        "cooking_method": "Layer ladyfingers with lemon basil syrup and mascarpone, finish with cocoa",
+        "rating": 4.6
+      }
+    ]
+  }
+]
