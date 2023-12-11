@@ -13,7 +13,6 @@ const corsConfig = {
 app.use(cors(corsConfig))
 app.options("", cors(corsConfig))
 
-
 app.get('/', (req, res) => {
     res.send('Server is running');
 });

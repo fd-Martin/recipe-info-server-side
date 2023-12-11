@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "photo": "chef1.jpg",
-    "name": "Chef John Smith",
+    "chefPhoto": "https://i.ibb.co/gzR5qVT/c1.jpg",
+    "chefName": "Chef John Smith",
     "bio": "Passionate about Thai cuisine and its rich flavors.",
     "experience": 15,
     "num_recipes": 5,
@@ -10,6 +10,7 @@
     "recipes": [
       {
         "name": "Pad Thai",
+        "foodPhoto":"https://i.ibb.co/123twxY/food.jpg",
         "ingredients": [
           "rice noodles",
           "shrimp",
@@ -22,6 +23,7 @@
       },
       {
         "name": "Tom Yum Soup",
+        "foodPhoto":"https://i.ibb.co/123twxY/food.jpg",
         "ingredients": [
           "lemongrass",
           "galangal",
@@ -34,6 +36,7 @@
       },
       {
         "name": "Green Curry Chicken",
+        "foodPhoto":"https://i.ibb.co/123twxY/food.jpg",
         "ingredients": [
           "chicken",
           "coconut milk",
@@ -46,6 +49,7 @@
       },
       {
         "name": "Thai Basil Beef",
+        "foodPhoto":"https://i.ibb.co/123twxY/food.jpg",
         "ingredients": [
           "beef",
           "Thai basil",
@@ -58,6 +62,7 @@
       },
       {
         "name": "Mango Sticky Rice",
+        "foodPhoto":"https://i.ibb.co/123twxY/food.jpg",
         "ingredients": [
           "sticky rice",
           "mango",
@@ -72,8 +77,8 @@
   },
   {
     "id": 2,
-    "photo": "chef2.jpg",
-    "name": "Chef Maria Rodriguez",
+    "chefPhoto": "https://i.ibb.co/LJ861H1/c2.jpg",
+    "chefName": "Chef Maria Rodriguez",
     "bio": "Bringing the authentic taste of Thailand to your table.",
     "experience": 12,
     "num_recipes": 3,
@@ -81,6 +86,7 @@
     "recipes": [
       {
         "name": "Panang Curry Beef",
+        "foodPhoto":"https://i.ibb.co/123twxY/food.jpg",
         "ingredients": [
           "beef",
           "coconut milk",
@@ -93,6 +99,7 @@
       },
       {
         "name": "Som Tum Salad",
+        "foodPhoto":"https://i.ibb.co/123twxY/food.jpg",
         "ingredients": [
           "green papaya",
           "carrots",
@@ -105,6 +112,7 @@
       },
       {
         "name": "Mango Sticky Rice",
+        "foodPhoto":"https://i.ibb.co/123twxY/food.jpg",
         "ingredients": [
           "sticky rice",
           "mango",
@@ -119,8 +127,8 @@
   },
   {
     "id": 3,
-    "photo": "chef3.jpg",
-    "name": "Chef Li Wei",
+    "chefPhoto": "https://i.ibb.co/xHnMr7b/c3.jpg",
+    "chefName": "Chef Li Wei",
     "bio": "Blending Thai tradition with modern culinary techniques.",
     "experience": 20,
     "num_recipes": 6,
@@ -128,6 +136,7 @@
     "recipes": [
       {
         "name": "Tom Kha Gai",
+        "foodPhoto":"https://i.ibb.co/123twxY/food.jpg",
         "ingredients": [
           "chicken",
           "coconut milk",
@@ -140,6 +149,7 @@
       },
       {
         "name": "Pineapple Fried Rice",
+        "foodPhoto":"https://i.ibb.co/123twxY/food.jpg",
         "ingredients": [
           "jasmine rice",
           "pineapple",
@@ -152,6 +162,7 @@
       },
       {
         "name": "Massaman Curry Lamb",
+        "foodPhoto":"https://i.ibb.co/123twxY/food.jpg",
         "ingredients": [
           "lamb",
           "potatoes",
@@ -164,6 +175,7 @@
       },
       {
         "name": "Thai Iced Tea",
+        "foodPhoto":"https://i.ibb.co/123twxY/food.jpg",
         "ingredients": [
           "black tea",
           "condensed milk",
@@ -176,6 +188,7 @@
       },
       {
         "name": "Coconut Shrimp Soup",
+        "foodPhoto":"https://i.ibb.co/123twxY/food.jpg",
         "ingredients": [
           "shrimp",
           "coconut milk",
@@ -188,6 +201,7 @@
       },
       {
         "name": "Green Papaya Salad",
+        "foodPhoto":"https://i.ibb.co/123twxY/food.jpg",
         "ingredients": [
           "green papaya",
           "carrots",
@@ -202,8 +216,8 @@
   },
   {
     "id": 4,
-    "photo": "chef4.jpg",
-    "name": "Chef Alessandra Rossi",
+    "chefPhoto": "https://i.ibb.co/hmg0LPs/c4.jpg",
+    "chefName": "Chef Alessandra Rossi",
     "bio": "Passionate about creating Thai dishes with a twist.",
     "experience": 18,
     "num_recipes": 4,
@@ -211,6 +225,7 @@
     "recipes": [
       {
         "name": "Thai Basil Pesto Pasta",
+        "foodPhoto":"https://i.ibb.co/123twxY/food.jpg",
         "ingredients": [
           "pasta",
           "Thai basil",
@@ -223,6 +238,7 @@
       },
       {
         "name": "Red Curry Shrimp Skewers",
+        "foodPhoto":"https://i.ibb.co/123twxY/food.jpg",
         "ingredients": [
           "shrimp",
           "red curry paste",
@@ -235,6 +251,7 @@
       },
       {
         "name": "Mango Coconut Sorbet",
+        "foodPhoto":"https://i.ibb.co/123twxY/food.jpg",
         "ingredients": [
           "mango",
           "coconut milk",
@@ -247,6 +264,7 @@
       },
       {
         "name": "Thai Chicken Lettuce Wraps",
+        "foodPhoto":"https://i.ibb.co/123twxY/food.jpg",
         "ingredients": [
           "ground chicken",
           "water chestnuts",
@@ -261,8 +279,8 @@
   },
   {
     "id": 5,
-    "photo": "chef5.jpg",
-    "name": "Chef Ananya Gupta",
+    "chefPhoto": "https://i.ibb.co/THdXcK8/c5.jpg",
+    "chefName": "Chef Ananya Gupta",
     "bio": "Infusing Thai flavors with a touch of Indian influence.",
     "experience": 14,
     "num_recipes": 6,
@@ -270,6 +288,7 @@
     "recipes": [
       {
         "name": "Thai Chicken Biryani",
+        "foodPhoto":"https://i.ibb.co/123twxY/food.jpg",
         "ingredients": [
           "chicken",
           "basmati rice",
@@ -282,6 +301,7 @@
       },
       {
         "name": "Coconut Curry Vegetable Stir-Fry",
+        "foodPhoto":"https://i.ibb.co/123twxY/food.jpg",
         "ingredients": [
           "mixed vegetables",
           "coconut curry sauce",
@@ -294,6 +314,7 @@
       },
       {
         "name": "Thai Basil Naan Pizza",
+        "foodPhoto":"https://i.ibb.co/123twxY/food.jpg",
         "ingredients": [
           "naan bread",
           "Thai basil pesto",
@@ -306,6 +327,7 @@
       },
       {
         "name": "Papaya-Coconut Smoothie",
+        "foodPhoto":"https://i.ibb.co/123twxY/food.jpg",
         "ingredients": [
           "papaya",
           "coconut milk",
@@ -318,6 +340,7 @@
       },
       {
         "name": "Thai Green Bean Salad",
+        "foodPhoto":"https://i.ibb.co/123twxY/food.jpg",
         "ingredients": [
           "green beans",
           "cherry tomatoes",
@@ -330,6 +353,7 @@
       },
       {
         "name": "Mango Chili Chicken Wings",
+        "foodPhoto":"https://i.ibb.co/123twxY/food.jpg",
         "ingredients": [
           "chicken wings",
           "mango-chili glaze",
@@ -344,8 +368,8 @@
   },
   {
     "id": 6,
-    "photo": "chef6.jpg",
-    "name": "Chef Takashi Yamamoto",
+    "chefPhoto": "https://i.ibb.co/s2z70ht/c6.jpg",
+    "chefName": "Chef Takashi Yamamoto",
     "bio": "Bringing a touch of Japanese precision to Thai cuisine.",
     "experience": 16,
     "num_recipes": 4,
@@ -353,6 +377,7 @@
     "recipes": [
       {
         "name": "Sushi-Inspired Thai Rolls",
+        "foodPhoto":"https://i.ibb.co/123twxY/food.jpg",
         "ingredients": [
           "rice paper",
           "shrimp",
@@ -365,6 +390,7 @@
       },
       {
         "name": "Thai Green Tea Matcha Latte",
+        "foodPhoto":"https://i.ibb.co/123twxY/food.jpg",
         "ingredients": [
           "Thai green tea",
           "matcha powder",
@@ -377,6 +403,7 @@
       },
       {
         "name": "Spicy Tuna Larb Lettuce Cups",
+        "foodPhoto":"https://i.ibb.co/123twxY/food.jpg",
         "ingredients": [
           "tuna",
           "lime juice",
@@ -389,6 +416,7 @@
       },
       {
         "name": "Coconut Miso Ramen",
+        "foodPhoto":"https://i.ibb.co/123twxY/food.jpg",
         "ingredients": [
           "ramen noodles",
           "coconut milk",
@@ -403,8 +431,8 @@
   },
   {
     "id": 7,
-    "photo": "chef7.jpg",
-    "name": "Chef Isabella Rossi",
+    "chefPhoto": "https://i.ibb.co/NLFTrS2/c7.jpg",
+    "chefName": "Chef Isabella Rossi",
     "bio": "A culinary artist blending Thai and Italian flavors.",
     "experience": 14,
     "num_recipes": 3,
@@ -412,6 +440,7 @@
     "recipes": [
       {
         "name": "Thai Basil Pesto Risotto",
+        "foodPhoto":"https://i.ibb.co/123twxY/food.jpg",
         "ingredients": [
           "arborio rice",
           "Thai basil",
@@ -424,6 +453,7 @@
       },
       {
         "name": "Spaghetti Pad Kee Mao",
+        "foodPhoto":"https://i.ibb.co/123twxY/food.jpg",
         "ingredients": [
           "spaghetti",
           "beef",
@@ -436,6 +466,7 @@
       },
       {
         "name": "Lemon Basil Tiramisu",
+        "foodPhoto":"https://i.ibb.co/123twxY/food.jpg",
         "ingredients": [
           "ladyfingers",
           "lemon basil syrup",
@@ -450,8 +481,8 @@
   },
   {
     "id": 8,
-    "photo": "chef7.jpg",
-    "name": "Chef Isabella Rossi",
+    "chefPhoto": "https://i.ibb.co/94zKYV9/c8.jpg",
+    "chefName": "Chef Isabella Rossi",
     "bio": "A culinary artist blending Thai and Italian flavors.",
     "experience": 14,
     "num_recipes": 3,
@@ -459,6 +490,7 @@
     "recipes": [
       {
         "name": "Thai Basil Pesto Risotto",
+        "foodPhoto":"https://i.ibb.co/123twxY/food.jpg",
         "ingredients": [
           "arborio rice",
           "Thai basil",
@@ -471,6 +503,7 @@
       },
       {
         "name": "Spaghetti Pad Kee Mao",
+        "foodPhoto":"https://i.ibb.co/123twxY/food.jpg",
         "ingredients": [
           "spaghetti",
           "beef",
@@ -483,6 +516,7 @@
       },
       {
         "name": "Lemon Basil Tiramisu",
+        "foodPhoto":"https://i.ibb.co/123twxY/food.jpg",
         "ingredients": [
           "ladyfingers",
           "lemon basil syrup",
