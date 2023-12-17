@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "chefPhoto": "https://i.ibb.co/gzR5qVT/c1.jpg",
     "chefName": "Chef John Smith",
     "bio": "Passionate about Thai cuisine and its rich flavors.",
@@ -76,7 +76,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": "2",
     "chefPhoto": "https://i.ibb.co/LJ861H1/c2.jpg",
     "chefName": "Chef Maria Rodriguez",
     "bio": "Bringing the authentic taste of Thailand to your table.",
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "id": 3,
+    "id": "3",
     "chefPhoto": "https://i.ibb.co/xHnMr7b/c3.jpg",
     "chefName": "Chef Li Wei",
     "bio": "Blending Thai tradition with modern culinary techniques.",
@@ -215,7 +215,7 @@
     ]
   },
   {
-    "id": 4,
+    "id": "4",
     "chefPhoto": "https://i.ibb.co/hmg0LPs/c4.jpg",
     "chefName": "Chef Alessandra Rossi",
     "bio": "Passionate about creating Thai dishes with a twist.",
@@ -278,7 +278,7 @@
     ]
   },
   {
-    "id": 5,
+    "id": "5",
     "chefPhoto": "https://i.ibb.co/THdXcK8/c5.jpg",
     "chefName": "Chef Ananya Gupta",
     "bio": "Infusing Thai flavors with a touch of Indian influence.",
@@ -367,7 +367,7 @@
     ]
   },
   {
-    "id": 6,
+    "id": "6",
     "chefPhoto": "https://i.ibb.co/s2z70ht/c6.jpg",
     "chefName": "Chef Takashi Yamamoto",
     "bio": "Bringing a touch of Japanese precision to Thai cuisine.",
@@ -430,7 +430,7 @@
     ]
   },
   {
-    "id": 7,
+    "id": "7",
     "chefPhoto": "https://i.ibb.co/NLFTrS2/c7.jpg",
     "chefName": "Chef Isabella Rossi",
     "bio": "A culinary artist blending Thai and Italian flavors.",
@@ -480,7 +480,7 @@
     ]
   },
   {
-    "id": 8,
+    "id": "8",
     "chefPhoto": "https://i.ibb.co/94zKYV9/c8.jpg",
     "chefName": "Chef Isabella Rossi",
     "bio": "A culinary artist blending Thai and Italian flavors.",

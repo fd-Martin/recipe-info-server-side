@@ -23,9 +23,10 @@ app.get('/recipes', (req, res) => {
 
 app.get('/recipes/:id', (req, res) => {
     const id = parseInt(req.params.id);
+    
     console.log(id);
     {
-        const recipesData = recipes.filter(recipe => recipe.id === id);
+        const recipesData = recipes.filter(recipe => parseInt(recipe.id) === id);
         res.send(recipesData);
     }
 });
